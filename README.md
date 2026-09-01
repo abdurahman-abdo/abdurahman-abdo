@@ -1,5 +1,5 @@
 # Hi 👋, I'm Abdurahman
-&nbsp;&nbsp;
+
 Python developer building ML skills through hands-on projects.
 I like **learning by building** ‒ working with data, understanding how models work, testing ideas, figuring things out along the way, and alike.
 
