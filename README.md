@@ -15,15 +15,18 @@
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/abdum" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://simpleicons.org/icons/linkedin.svg?color=000000" alt="Twitter/X" width="30" height="30" #gh-light-mode-only />
+    <img src="https://simpleicons.org/icons/linkedin.svg?color=ffffff" alt="Twitter/X" width="30" height="30" #gh-dark-mode-only />  
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/abdumxr" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="Twitter/X" width="30" height="30" />
+    <img src="https://simpleicons.org/icons/x.svg?color=000000" alt="Twitter/X" width="30" height="30" #gh-light-mode-only />
+    <img src="https://simpleicons.org/icons/x.svg?color=ffffff" alt="Twitter/X" width="30" height="30" #gh-dark-mode-only />  
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abdurahmanmoh.3@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" width="30" height="30" />
+    <img src="https://simpleicons.org/icons/gmail.svg?color=000000" alt="Twitter/X" width="30" height="30" #gh-light-mode-only />
+    <img src="https://simpleicons.org/icons/gmail.svg?color=ffffff" alt="Twitter/X" width="30" height="30" #gh-dark-mode-only />  
   </a>
 </p>
 
