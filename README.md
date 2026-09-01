@@ -12,6 +12,7 @@
 - Machine Learning, Scikit-learn, Matplotlib
 - Jupyter, Git & GitHub...
 
+<!--
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/abdum" target="_blank" rel="noreferrer">
@@ -29,7 +30,7 @@
     <img src="https://simpleicons.org/icons/gmail.svg?color=ffffff" alt="Twitter/X" width="30" height="30" #gh-dark-mode-only />  
   </a>
 </p>
-
+-->
 <!--
 **abdurahman-abdo/abdurahman-abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
