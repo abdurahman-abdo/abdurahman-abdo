@@ -7,14 +7,25 @@
 
 - 👨‍💻 [This is a fresh profile](https://github.com/abdurahman-abdo) where I’ll be uploading the projects I’m currently working on. _Everything here is built from scratch, with a focus on actually understanding what I’m doing rather than just following tutorials or copying code._
 
-### Connect with me:
-<a href="https://twitter.com/abdumxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdumxr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdum" height="30" width="40" /></a>
-
 ### Languages and Tools:
 - Python, NumPy, Pandas
 - Machine Learning, Scikit-learn, Matplotlib
 - Jupyter, Git & GitHub...
+
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/abdum" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/abdumxr" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="Twitter/X" width="30" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abdurahmanmoh.3@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" width="30" height="30" />
+  </a>
+</p>
 
 <!--
 **abdurahman-abdo/abdurahman-abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
