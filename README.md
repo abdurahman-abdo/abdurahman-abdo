@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abdurahman
 
 Python developer building ML skills through hands-on projects.
-I like **learning by building** ‒ working with data, understanding how models work, testing ideas, figuring things out along the way, and alike.
+I like **learning by building** ‒ working with data, understanding how models work, testing ideas, figuring things out along the way, and the like.
 
 ---
 
@@ -29,6 +29,5 @@ I like **learning by building** ‒ working with data, understanding how models 
 
 ### 📫 Contact
 
-* **GitHub:** [@abdurahman-abdo](https://github.com/abdurahman-abdo)
 * **LinkedIn:** [linkedin.com/in/abdum](https://linkedin.com/in/abdum)
 * **Email:** [abdurahmanmoh.3@gmail.com](mailto:abdurahmanmoh.3@gmail.com)
