@@ -8,30 +8,60 @@
 
 - 👨‍💻 [This is a fresh profile](https://github.com/abdurahman-abdo) where I’ll be uploading the projects I’m currently working on. _Everything here is built from scratch, with a focus on actually understanding what I’m doing rather than just following tutorials or copying code._
 
-### Languages and Tools:
-- Python, NumPy, Pandas
-- Machine Learning, Scikit-learn, Matplotlib
-- Jupyter, Git & GitHub...
 
-<!--
-### Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/abdum" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/linkedin.svg?color=000000" alt="Twitter/X" width="30" height="30" #gh-light-mode-only />
-    <img src="https://simpleicons.org/icons/linkedin.svg?color=ffffff" alt="Twitter/X" width="30" height="30" #gh-dark-mode-only />  
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/abdumxr" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/x.svg?color=000000" alt="Twitter/X" width="30" height="30" #gh-light-mode-only />
-    <img src="https://simpleicons.org/icons/x.svg?color=ffffff" alt="Twitter/X" width="30" height="30" #gh-dark-mode-only />  
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abdurahmanmoh.3@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/gmail.svg?color=000000" alt="Twitter/X" width="30" height="30" #gh-light-mode-only />
-    <img src="https://simpleicons.org/icons/gmail.svg?color=ffffff" alt="Twitter/X" width="30" height="30" #gh-dark-mode-only />  
-  </a>
-</p>
--->
+## What I'm Working On
+
+* 🐍 Python development
+* 🤖 Machine Learning
+* 📊 Data analysis and visualization
+* 🧠 Understanding ML algorithms from the fundamentals
+* 🛠️ Building practical projects instead of only following tutorials
+* 📈 Continuously improving my programming and problem-solving skills
+
+## Tech Stack
+
+**Languages**
+
+* Python
+
+**Machine Learning & Data**
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+**Tools**
+
+* Jupyter
+* Git
+* GitHub
+
+## Projects
+
+I use my GitHub to document what I build while developing my ML skills.
+
+Each project focuses on applying concepts to a real problem, with an emphasis on:
+
+* Clean, understandable code
+* Proper data handling
+* Reproducible experiments
+* Understanding the reasoning behind model choices
+* Evaluating results rather than blindly trusting them
+* Learning from mistakes and iterations
+
+➡️ **Check out my repositories below to see what I'm building.**
+
+## Current Goal
+
+Become a strong **Python and Machine Learning developer** by building projects and developing a deeper understanding of the mathematics, algorithms, and the engineering behind ML systems.
+
+## Contact
+
+* GitHub: [@abdurahman-abdo](https://github.com/abdurahman-abdo)
+* LinkedIn: [https://linkedin.com/in/abdum](https://linkedin.com/in/abdum)
+* Email: [abdurahmanmoh.3@gmail.com](mailto:abdurahmanmoh.3@gmail.com)
+
 <!--
 **abdurahman-abdo/abdurahman-abdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
