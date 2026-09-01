@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Abdurahman
 
-- Python developer building ML skills through hands-on projects
+#### Python developer building ML skills through hands-on projects
 
 - 🔭 I mostly work with Python, and I’m currently building skills in **_Machine Learning through_** hands-on projects.
 
