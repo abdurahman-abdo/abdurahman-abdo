@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdurahman — Python Developer</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='16' fill='%231B1F23'/><text x='50' y='68' font-family='monospace' font-size='60' font-weight='700' fill='%232F6E62' text-anchor='middle'>$</text></svg>">    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle dark mode">dark mode: off</button>
+
+    <div class="wrap">
+        <header class="hero">
+            <div class="prompt" id="promptLine" role="button" tabindex="0" aria-label="Replay typing animation"><span
+                    class="sigil">$</span> <span class="typed" id="typedText"></span><span class="cursor"></span></div>
+            <h1>Abdurahman — Python developer</h1>
+            <p class="lede">Building toward machine learning engineering through hands-on projects 
+                — currently working with pandas and numpy.</p>
+            <div class="links">
+                <a href="https://github.com/Abdu-Moh" target="_blank" rel="noopener">GitHub</a>
+                <a href="mailto:your-email@example.com">Email</a>
+            </div>
+        </header>
+
+        <section class="about">
+            <h2>About</h2>
+            <p>What I care about, and interests me is understanding the root causes of the problem 
+                rather than finding a quick solution that will work, and this is reflected in my 
+                approach to learning; creating my own programs rather than just copying from 
+                tutorials and spending time on finding out why something doesn’t work. It takes 
+                more time to learn, but this is the way I would like to build my background in 
+                ML engineering.</p>
+            <div class="now">currently_learning = ["matplotlib", "scikit-learn", "sqlite3"]</div>
+        </section>
+
+        <section class="projects">
+            <h2>Projects</h2>
+
+            <div class="project">
+                <h3>CLI To-Do App</h3>
+                <p class="desc">A command-line task manager with priorities, categories, due dates, and colorized
+                    filtering.</p>
+                <div class="tags">
+                    <span class="tag">Python</span>
+                    <span class="tag">argparse</span>
+                    <span class="tag">rich</span>
+                    <span class="tag">JSON persistence</span>
+                </div>
+                <ul>
+                    <li>Task IDs and multi-value filtering across status, priority, and category</li>
+                    <li>Emoji-tagged categories and due-date-aware color output</li>
+                    <li>Built with real edge cases in mind — malformed data, missing fields, generator pitfalls</li>
+                </ul>
+                <a class="repo" href="https://github.com/Abdu-Moh/to-do-app" target="_blank" rel="noopener">View
+                    repository</a>
+            </div>
+
+            <!-- <div class="project">
+                <h3>Airbnb Data Exploration</h3>
+                <p class="desc">Exploratory data analysis of Airbnb listings, from raw CSV to answered questions.</p>
+                <div class="tags">
+                    <span class="tag">pandas</span>
+                    <span class="tag">numpy</span>
+                    <span class="tag">matplotlib</span>
+                </div>
+                <ul>
+                    <li>Cleaned messy real-world data — missing values, dtype fixes, outlier detection</li>
+                    <li>Investigated pricing patterns, review activity trends, and room-type distribution</li>
+                    <li>Used correlation and grouped aggregates to test hypotheses against the data</li>
+                </ul>
+                <a class="repo" href="#" target="_blank" rel="noopener">View repository</a>
+            </div> -->
+
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul class="skills-list">
+                <li>Python</li>
+                <li>pandas</li>
+                <li>numpy</li>
+                <li>argparse</li>
+                <li>Git &amp; GitHub</li>
+                <li>uv</li>
+            </ul>
+        </section>
+
+        <footer>
+            <div class="prompt-end"><span class="sigil">$</span> contact --me</div>
+            <div class="contact-links">
+                <a href="https://github.com/Abdu-Moh" target="_blank" rel="noopener">GitHub</a>
+                <a href="mailto:your-email@example.com">Email</a>
+            </div>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
