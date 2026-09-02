@@ -30,4 +30,4 @@ I like **learning by building** — working with data, understanding how models 
 ### 📫 Contact
 
 * **LinkedIn:** [linkedin.com/in/abdum](https://linkedin.com/in/abdum)
-* **Email:** [abdurahmanmoh.3@gmail.com](mailto:abdurahmanmoh.3@gmail.com)
+* **Email:** [abdurahman.m.abdo@gmail.com](mailto:abdurahman.m.abdo@gmail.com)
