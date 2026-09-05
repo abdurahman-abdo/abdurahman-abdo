@@ -29,6 +29,6 @@ I like **learning by building** — working with data, understanding how models 
 
 ### 📫 Contact
 
-* [![X (formerly Twitter) Follow](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdumxr) @abdumxr
+* **X (Twitter):** [@abdumxr](https://x.com/abdumxr)
 <!-- * **LinkedIn:** [@abdum](https://linkedin.com/in/abdum) -->
 * **Email:** [abdurahman.m.abdo@gmail.com](mailto:abdurahman.m.abdo@gmail.com)
