@@ -1,4 +1,4 @@
-# Hey 👋, I'm Abdurahman  
+# Hi 👋, I'm Abdurahman  
 ***Python developer building ML skills through hands-on projects.***  
   
 I like **learning by building** — working with data, understanding how models work, testing ideas, figuring things out along the way, and the like.
@@ -29,5 +29,6 @@ I like **learning by building** — working with data, understanding how models 
 
 ### 📫 Contact
 
-* **LinkedIn:** [linkedin.com/in/abdum](https://linkedin.com/in/abdum)
+* [![X (formerly Twitter) Follow](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abdumxr) @abdumxr
+<!-- * **LinkedIn:** [@abdum](https://linkedin.com/in/abdum) -->
 * **Email:** [abdurahman.m.abdo@gmail.com](mailto:abdurahman.m.abdo@gmail.com)
