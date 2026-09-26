@@ -1,10 +1,10 @@
 // Typing effect for the hero prompt, and replays on click, and when scroll-back to top
 (function () {
-    var text = "whoami";
-    var el = document.getElementById("typedText");
-    var promptLine = document.getElementById("promptLine");
-    var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    var typing = false;
+    let text = "whoami";
+    let el = document.getElementById("typedText");
+    let promptLine = document.getElementById("promptLine");
+    let reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    let typing = false;
 
     function playTyping() {
         if (reduceMotion) {
@@ -14,7 +14,7 @@
         if (typing) return;
         typing = true;
         el.textContent = "";
-        var i = 0;
+        let i = 0;
         function typeNext() {
             if (i <= text.length) {
                 el.textContent = text.slice(0, i);
@@ -55,17 +55,17 @@
 
 // Dark mode toggle
 (function () {
-    var root = document.documentElement;
-    var btn = document.getElementById("themeToggle");
-    var stored = localStorage.getItem("theme");
-    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    var initial = stored || (prefersDark ? "dark" : "light");
+    let root = document.documentElement;
+    let btn = document.getElementById("themeToggle");
+    let stored = localStorage.getItem("theme");
+    let prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    let initial = stored || (prefersDark ? "dark" : "light");
 
     applyTheme(initial);
 
     btn.addEventListener("click", function () {
-        var current = root.getAttribute("data-theme") === "dark" ? "dark" : "light";
-        var next = current === "dark" ? "light" : "dark";
+        let current = root.getAttribute("data-theme") === "dark" ? "dark" : "light";
+        let next = current === "dark" ? "light" : "dark";
         applyTheme(next);
         localStorage.setItem("theme", next);
     });
