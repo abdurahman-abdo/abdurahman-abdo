@@ -30,5 +30,5 @@ I like **learning by building** — working with data, understanding how models 
 ### 📫 Contact
 
 <!-- * **LinkedIn:** [@abdum](https://linkedin.com/in/abdum) -->
-* **X (Twitter):** [@abdumxr](https://x.com/abdumxr)
+* **X (Twitter):** [@abdurahmanxabdo](https://x.com/abdurahmanxabdo)
 * **Email:** [abdurahman.m.abdo@gmail.com](mailto:abdurahman.m.abdo@gmail.com)
